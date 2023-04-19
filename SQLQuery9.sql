@@ -1,0 +1,1 @@
+select *FROM Contract_EXT
